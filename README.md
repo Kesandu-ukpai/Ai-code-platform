@@ -26,5 +26,5 @@ A real-time collaborative code editor with AI-powered code reviews, team chat, a
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/<your-username>/ai-code-platform.git
+   git clone https://github.com/Kesandu-ukpai/Ai-code-platform.git
    cd ai-code-platform
